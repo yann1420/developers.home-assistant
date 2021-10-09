@@ -49,7 +49,7 @@ If specifying a device class, your sensor entity will need to also return the co
 | pressure | hPa,mbar | Pressure.
 | signal_strength | dB/dBm | Signal strength.
 | sulphur_dioxide | µg/m³ | Concentration of sulphure dioxide |
-| temperature | °C/°F | Temperature.
+| temperature | °C or °F | Temperature.
 | timestamp | ISO8601 | Timestamp.
 | volatile_organic_compounds | µg/m³ | Concentration of volatile organic compounds.
 | voltage | V | Voltage.
